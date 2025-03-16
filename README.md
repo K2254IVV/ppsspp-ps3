@@ -1,5 +1,7 @@
 # Welcome to PPSSPP_PS3 PROJECT!
 
+![PPSSPP_PS3 Logo](ppsspp-ps3.png)
+
 ## Links to Other READMEs
 
 - [README in Chinese (zh-cn)](README_zh-cn.md)
