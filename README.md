@@ -10,3 +10,9 @@
 - [README in Italian (it)](README_it.md)
 - [README in Russian (ru)](README_ru.md)
 - [README in Ukrainian (ua)](README_ua.md)
+
+
+![Screenshot1](/Screenshots/Screenshot_.png)
+
+## Links to DOWNLOAD HELPERs
+- [DOWNLOAD HELPER in English (en)](README_HD_en.md)
